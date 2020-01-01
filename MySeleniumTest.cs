@@ -26,15 +26,15 @@ namespace SeleniumTestProject
             appURL = "http://www.google.com/";
 
             string browser = "Chrome";
-            switch (browser)
-            {
-                case "Chrome":
-                    driver = new ChromeDriver();
-                    break;
-                default:
-                    driver = new ChromeDriver();
-                    break;
-            }
+            //switch (browser)
+            //{
+            //    case "Chrome":
+            //        driver = new ChromeDriver();
+            //        break;
+            //    default:
+            //        driver = new ChromeDriver();
+            //        break;
+            //}
 
         }
 
