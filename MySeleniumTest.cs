@@ -24,7 +24,6 @@ namespace SeleniumTestProject
         public void SetupTest()
         {
             appURL = "http://www.google.com/";
-
             string browser = "Chrome";           
 
         }
