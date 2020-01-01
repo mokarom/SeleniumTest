@@ -1,0 +1,14 @@
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\chromedriver.exe
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\SeleniumTestProject.deps.json
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\SeleniumTestProject.runtimeconfig.json
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\SeleniumTestProject.runtimeconfig.dev.json
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\SeleniumTestProject.dll
+C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp2.2\SeleniumTestProject.pdb
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp2.2\SeleniumTestProject.csprojAssemblyReference.cache
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp2.2\SeleniumTestProject.AssemblyInfoInputs.cache
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp2.2\SeleniumTestProject.AssemblyInfo.cs
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp2.2\SeleniumTestProject.dll
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp2.2\SeleniumTestProject.pdb
