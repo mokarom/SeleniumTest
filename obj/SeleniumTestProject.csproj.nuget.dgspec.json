@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject\\SeleniumTestProject.csproj": {}
+    "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject\\SeleniumTestProject.csproj": {
+    "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject\\SeleniumTestProject.csproj",
+        "projectUniqueName": "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject.csproj",
         "projectName": "SeleniumTestProject",
-        "projectPath": "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject\\SeleniumTestProject.csproj",
+        "projectPath": "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject.csproj",
         "packagesPath": "F:\\Users\\mokarom\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Temp\\Core\\SeleniumTest\\SeleniumTestProject\\obj\\",
+        "outputPath": "C:\\Work\\Temp\\Core\\SeleniumTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "F:\\Users\\mokarom\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
               "version": "[2.0.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
               "target": "Package",
               "version": "[16.4.0, )"
             },
