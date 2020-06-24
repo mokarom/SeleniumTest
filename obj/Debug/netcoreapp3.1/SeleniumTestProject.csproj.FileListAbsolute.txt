@@ -187,3 +187,5 @@ C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTestProject.dll
 C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTestProject.pdb
 C:\Work\Temp\Core\SeleniumTest\bin\Debug\netcoreapp3.1\chromedriver.exe
 C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTestProject.csprojAssemblyReference.cache
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTestProject.csproj.CoreCompileInputs.cache
+C:\Work\Temp\Core\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTestProject.genruntimeconfig.cache
